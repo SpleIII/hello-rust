@@ -70,9 +70,9 @@ docker run --rm hello-rust alpha beta
 
 ## Результаты сборки
 
-![Пакет в GHCR](../../docs/rust-ghcr-package.png)
+![Пакет в GHCR](docs/01-rust-ghcr-package.png)
 
-![Запуск workflow](../../docs/rust-actions.png)
+![Запуск workflow](docs/02-rust-actions.png)
 
 ---
 
